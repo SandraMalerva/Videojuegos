@@ -1,5 +1,7 @@
 # Videojuegos
 Tienda online Ice que vende videojuegos por todo el mundo.
+
+
 Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. El proposito de este proyecto es identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias en el futuro.
 
 Para el analisis de este dataset se consideraron las siguientes interrogantes:  
