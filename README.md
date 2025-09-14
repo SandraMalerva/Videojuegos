@@ -1,38 +1,33 @@
-# Videojuegos
-Tienda online Ice que vende videojuegos por todo el mundo.
+# 🎮 Proyecto: GameScope – Análisis de Ventas y Éxito de Videojuegos
 
+Desarrollé un análisis de datos para la tienda online ficticia Ice, dedicada a la venta de videojuegos a nivel mundial. El objetivo fue identificar patrones que determinan el éxito de un videojuego, apoyando la detección de proyectos prometedores y la planificación de campañas de marketing.
 
-Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. El proposito de este proyecto es identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias en el futuro.
+🔹 Aspectos analizados:
 
-Para el analisis de este dataset se consideraron las siguientes interrogantes:  
+Evolución de lanzamientos de videojuegos por año y su relevancia.
 
-¿Son significativos los datos de cada período? (tomando en cuenta cuántos juegos fueron lanzados en diferentes años.)
+Diferencias de ventas entre plataformas (Xbox, PlayStation, PC, etc.) y sus ciclos de vida.
 
-¿Varían las ventas de una plataforma a otra? 
+Identificación de plataformas líderes, en crecimiento o en declive.
 
-¿Cuánto tardan generalmente las nuevas plataformas en aparecer y las antiguas en desaparecer?
+Relación entre reseñas de usuarios/profesionales y ventas en plataformas populares.
 
-¿Qué plataformas son líderes en ventas? ¿Cuáles crecen y cuáles se reducen? 
+Ventas promedio en distintas plataformas y géneros.
 
-¿Son significativas las diferencias en las ventas? 
+🔹 Perfiles regionales (NA, EU, JP):
 
-¿Qué sucede con las ventas promedio en varias plataformas? 
+Plataformas y géneros más populares.
 
-¿Las reseñas de usuarios y profesionales afectan las ventas de una plataforma popular? 
+Impacto de las clasificaciones ESRB en las ventas.
 
- Se creoun  perfil de usuario para cada región y para cada región (NA, UE, JP) se determino:
+🔹 Pruebas de hipótesis:
 
-Las cinco plataformas principales. 
-Los cinco géneros principales. 
-Si las clasificaciones de ESRB afectan a las ventas en regiones individuales.
+Comparación de calificaciones promedio de usuarios en Xbox One vs PC.
 
-Se realizo prueba de  las siguientes hipótesis:
+Diferencias entre las valoraciones de géneros de Acción vs Deportes.
 
-— Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
+🔹 Visualizaciones creadas:
 
-— Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
+Diagramas de caja de ventas globales por plataforma.
 
-Se creo un diagrama de caja para las ventas globales de todos los juegos, desglosados por plataforma y  gráfico de dispersión y calcula la correlación entre las reseñas y las ventas.
-
-
-
+Gráficos de dispersión y correlaciones entre reseñas y ventas.
